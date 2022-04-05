@@ -1,2 +1,2 @@
 # PieShellModuleAppstore
-An appstore for modules of PieShell
+The offical appstore for modules of PieShell
