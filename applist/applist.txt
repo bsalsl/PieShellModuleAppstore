@@ -1,1 +1,1 @@
-tictactoe@,@1@,@off@,@Play tictactoe@,@both@,@Vin D@,@None@,@3rdparty@,@shown
+tictactoe@,@dev@,@off@,@Play tictactoe@,@both@,@Vin D@,@None@,@3rdparty@,@shown
